@@ -1,6 +1,6 @@
 apply plugin: 'war'
 
-jar.enabled = false;
+jar.enabled = false
 
 dependencies {
     compile project(':calculadora-core')
